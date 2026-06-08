@@ -1,0 +1,6 @@
+{
+  "name": "Academic DRR Advisor",
+  "description": "Specialized academic advisor and simulator for natural disaster risk reduction in Morocco (Mohammedia, Sidi Bernoussi, Ain Sebaâ) aligned with official national legislations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

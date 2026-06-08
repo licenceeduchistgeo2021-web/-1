@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Base center anchor 54, 54 -->
+    <!-- Beautiful shield representing Disaster Protection and Legal Shelter -->
+    <path
+        android:fillColor="#00ADB5"
+        android:pathData="M24,30 L54,18 L84,30 L84,54 C84,72 72,86 54,90 C36,86 24,72 24,54 Z" />
+
+    <!-- Wave and star protection details in white/accent inside the shield -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 L58,44 L68,44 L60,50 L63,60 L54,54 L45,60 L48,50 L40,44 L50,44 Z" />
+
+    <!-- Symbolic rising water crest breaker lines beneath the star, representing Sponge Resiliency -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M38,70 Q54,63 70,70" />
+
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M44,78 Q54,73 64,78" />
+</vector>
